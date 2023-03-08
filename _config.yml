@@ -85,7 +85,7 @@ author:
   name             : "Tianyou Hu"
   avatar           : "profile.png"
   bio              : "Master Student at Washington University in St. Louis"
-  location         : "Location"
+  #location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
