@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-#title                    : "Tianyou Hu"
-#title_separator          : "-"
+title                    : "Tianyou Hu"
+title_separator          : "-"
 name                     : &name "Tianyou Hu"
 description              : &description "master student at Washington University in St. Louis majoring in Mechanical Engineering"
 url                      : https://tianyouhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
