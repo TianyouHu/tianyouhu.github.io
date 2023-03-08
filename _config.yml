@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tianyou Hu"
-title_separator          : "-"
+#title                    : "Tianyou Hu"
+#title_separator          : "-"
 name                     : &name "Tianyou Hu"
 description              : &description "master student at Washington University in St. Louis majoring in Mechanical Engineering"
 url                      : https://tianyouhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -87,7 +87,7 @@ author:
   bio              : "Master Student at Washington University in St. Louis (WUSTL)"
   location         : "St. Louis, Missouri"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=OxU0qNwAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  #github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -108,10 +108,10 @@ author:
   #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  #stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
