@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Please download my CV [here](https://tianyouhu.github.io/files/CV.pdf)
+Please download my C.V. [here](https://tianyouhu.github.io/files/CV.pdf).
 
