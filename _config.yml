@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tianyou Hu"
 title_separator          : "-"
 name                     : &name "Tianyou Hu"
-description              : &description "master student"
+description              : &description "master student at Washington University in St. Louis majoring in Mechanical Engineering"
 url                      : https://tianyouhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -56,13 +56,15 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+
 #twitter:
   #username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+#facebook:
+  #username               :
+  #app_id                 :
+  #publisher              :
+#og_image                 :  # Open Graph/Twitter default site image
+
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -80,9 +82,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Tianyou Hu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Master Student at Washington University in St. Louis"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
