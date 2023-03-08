@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Tianyou Hu"
-  avatar           : "tianyou.png"
+  avatar           : "profile.png"
   bio              : "Master Student at Washington University in St. Louis (WUSTL)"
   location         : "St. Louis, Missouri"
   employer         :
@@ -105,7 +105,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
