@@ -16,8 +16,7 @@ I'm looking for **PhD** or **Research Assistant** position in **Robotics** field
 I joined Professor [Yiannis Kantaros'](https://engineering.wustl.edu/faculty/Yiannis-Kantaros.html) group at WashU since August 2022. I'm now working on **Vision Based Exploration in Fully Unknown Environment** project. I applied autonomous exploration algorithm on our Turtlebot3 Waffle Pi robot by combining RRT naviation algorithm and Karto SLAM method. Besides this, I applied YOLOv7 on our robot for object detection and depth estimation to obtain distance of specific object. My current work is combing laserscan and YOLO info to obtain position of pedestrian. The next step is predicting pedestrians trajectory based on their behavior.
 
 Please check these demo videos. 
-
-[![Autonomous navigation and object detection in our lab. The video below is tested on pad, so it's a little bumpy](https://img.youtube.com/vi/ICd1tCqf2rU/0.jpg)](https://www.youtube.com/watch?v=ICd1tCqf2rU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ICd1tCqf2rU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
