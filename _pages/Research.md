@@ -39,6 +39,7 @@ FCN-8s has the highest accuracy and mean Intersection over Union metric.
 <img src="https://user-images.githubusercontent.com/71891452/223977059-32441257-9ecc-4ea7-858d-20876facb5e7.png" alt="Image" height="202" width="509">
 
 Code here. <iframe src="https://ghbtns.com/github-btn.html?user=TianyouHu&repo=models-in-paper&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+<iframe src="https://ghbtns.com/github-btn.html?user=TianyouHu&repo=models-in-paper&type=star&count=false" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 
 
 
