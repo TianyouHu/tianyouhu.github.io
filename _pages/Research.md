@@ -27,6 +27,7 @@ The reason that I use Karto instead of Gmapping SLAM method is, Gmapping works p
 Please check these 2 videos for comparison.
 [gmapping doesn't know where it is.webm](https://user-images.githubusercontent.com/71891452/223967531-422d316b-fa48-4b53-9962-19c2dc2c1ff9.webm)
 [Karto knows it is stuck by rod.webm](https://user-images.githubusercontent.com/71891452/223967493-efaf9b33-272e-4548-944c-458d2825d1d1.webm)
+
 Computer Vision and Machine Learning with Self-driving Car project
 ======
 
