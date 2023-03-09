@@ -24,12 +24,17 @@ test environment of depth estimation
 
 The reason that I use Karto instead of Gmapping SLAM method is, Gmapping works pretty well in Gazebo but works bad on our Turtlebot. It somestimes messes the map up when twisting. When Turtlebot is stuck by something, Karto is able to know that robot is stuck, while gmapping method makes robot think it is still moving. When using gmapping SLAM, Turtlebot moves much faster than Karto SLAM.
 
-Please check these 2 videos for comparison.
+Please check these 2 videos for comparison.<br />
 [gmapping doesn't know where it is.webm](https://user-images.githubusercontent.com/71891452/223967531-422d316b-fa48-4b53-9962-19c2dc2c1ff9.webm)<br />
 [Karto knows it is stuck by rod.webm](https://user-images.githubusercontent.com/71891452/223967493-efaf9b33-272e-4548-944c-458d2825d1d1.webm)
 
 Computer Vision and Machine Learning with Self-driving Car project
 ======
+I worked on this project from Aug 2019 to Nov 2020. I wrote my code of semantic segmantation for pixel-wise classification. The classification accuracy is increased from 34% to 87% on a small dataset by tuning upsample method and kernel size of CNN. The small dataset only contains 101 test 367 train images with their annotation images.
+
+The figure below shows comparison of input image, ground truth and segmentation outcome from different models.
+![fcns](https://user-images.githubusercontent.com/71891452/223976395-2404956a-4e4e-4d95-be64-5ff47cd8382b.png)
+
 
 
 
