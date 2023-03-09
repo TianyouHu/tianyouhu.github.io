@@ -18,8 +18,5 @@ I joined Professor [Yiannis Kantaros'](https://engineering.wustl.edu/faculty/Yia
 Please check these demo videos. 
 
 Autonomous navigation and object detection in our lab.
-[yolo](https://www.youtube.com/watch?v=jplSmg2Z-Tw)
-
-
-
+https://user-images.githubusercontent.com/71891452/223924662-7f76ccae-8510-4835-b4e5-99134b5fd3d1.mp4
 
