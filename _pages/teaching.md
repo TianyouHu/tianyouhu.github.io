@@ -7,8 +7,8 @@ author_profile: true
 Washington University in St. Louis
 ------
   • ESE502: Mathematics of Modern Engineering II, Sring 2023 <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supevisor: [Vladimir Kurenok](https://engineering.wustl.edu/faculty/Vladimir-Kurenok.html) <br />
-    Core Content: Fourier Series, Fourier Integral, Fourier Transform, Complex valued integral and functions.
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supevisor: [Vladimir Kurenok](https://engineering.wustl.edu/faculty/Vladimir-Kurenok.html) <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Core Content: Fourier Series, Fourier Integral, Fourier Transform, Complex valued integral and functions.
   
       
       
