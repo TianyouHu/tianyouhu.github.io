@@ -32,9 +32,13 @@ Computer Vision and Machine Learning with Self-driving Car project
 ======
 I worked on this project from Aug 2019 to Nov 2020. I wrote my code of semantic segmantation for pixel-wise classification. The classification accuracy is increased from 34% to 87% on a small dataset by tuning upsample method and kernel size of CNN. The small dataset only contains 101 test 367 train images with their annotation images.
 
-The figure below shows comparison of input image, ground truth and segmentation outcome from different models.
+The figure below shows comparison of input image, ground truth and segmentation outcome from different models. 
 ![fcns](https://user-images.githubusercontent.com/71891452/223976395-2404956a-4e4e-4d95-be64-5ff47cd8382b.png)
 
+FCN-8s has the highest accuracy and mean Intersection over Union metric.
+![fcns sheet](https://user-images.githubusercontent.com/71891452/223977059-32441257-9ecc-4ea7-858d-20876facb5e7.png)
+
+Code here. 
 
 
 
