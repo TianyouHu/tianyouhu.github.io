@@ -7,7 +7,7 @@ author_profile: true
 Washington University in St. Louis
 ------
   •ESE502: Mathematics of Modern Engineering II, Sring 2023 <br />
-  > Supevisor: Vladimir Kurenok <br />
+  >> Supevisor: Vladimir Kurenok <br />
   <ul>
   Supevisor: Vladimir Kurenok <br />
   Responsibilities: Hold office hour, grade homework and exams for students. <br />
