@@ -20,7 +20,7 @@ Please check these demo videos.
 Object detection and autonomous navigation on pad (kinda bumpy)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ixDVWG9pUJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-not on pad
+/n not on pad
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ICd1tCqf2rU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
