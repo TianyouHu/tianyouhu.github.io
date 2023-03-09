@@ -19,6 +19,7 @@ Please check these demo videos.
 
 Autonomous navigation and object detection in our lab.
 ![yolo](https://tianyouhu.github.io/files/YOLO.webm)
+[gmapping](https://tianyouhu.github.io/files/gmapping.png)
 
 
 
