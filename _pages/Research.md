@@ -13,6 +13,7 @@ Please check these demo videos.
 Obtian person position by combining Lidar and YOLOv7 data. The closest Lidar distance in the YOLO framework is chosen as the person position. The code applies on 1 person, no person and mutiple people situation. depth and left or right of center represents x,y coordinate of the ground while Turtlebot is at the original point. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b3ARYUWHeLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/65siHMfaQLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Object detection and autonomous navigation 
@@ -22,7 +23,7 @@ depth estimation
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qh8bAIE5-mA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 test environment of depth estimation
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OoZ20Jg31_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="280" height="157" src="https://www.youtube.com/embed/OoZ20Jg31_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The reason that I use Karto instead of Gmapping SLAM method is, Gmapping works pretty well in Gazebo but works bad on our Turtlebot. It somestimes messes the map up when twisting. When Turtlebot is stuck by something, Karto is able to know that robot is stuck, while gmapping method makes robot think it is still moving. When using gmapping SLAM, Turtlebot moves much faster than Karto SLAM.
 
