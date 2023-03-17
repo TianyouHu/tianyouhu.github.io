@@ -6,11 +6,11 @@ author_profile: true
 ---
 Vision Based Exploration in Fully Unknown Environment
 =======
-I worked in Professor [Yiannis Kantaros'](https://engineering.wustl.edu/faculty/Yiannis-Kantaros.html) lab at WashU since August 2022. I applied autonomous exploration algorithm on our Turtlebot3 Waffle Pi robot by combining RRT naviation algorithm and Karto SLAM method. Besides this, I applied YOLOv7 on our robot for object detection and depth estimation to obtain distance of specific object. My current work is combing laserscan and YOLO info to obtain position of pedestrian. The next step is predicting pedestrians trajectory based on their behavior.
+I worked in Professor [Yiannis Kantaros'](https://engineering.wustl.edu/faculty/Yiannis-Kantaros.html) lab at WashU since August 2022. I applied autonomous exploration algorithm on our Turtlebot3 Waffle Pi robot by combining RRT naviation algorithm and Karto SLAM method. Besides this, I applied YOLOv7 on our robot for object detection and depth estimation to obtain distance of specific object. Lidar and YOLO data are combined to obtain position of pedestrian. The next step is predicting pedestrians trajectory by applying neural network.
 
 Please check these demo videos. 
 
-Obtian person position by combining Lidar and YOLOv7 data. The closest Lidar distance in the YOLO framework is chosen as the person position. The code applies on 1 person, no person and mutiple people situation. depth and left or right of center represents x,y coordinate of the ground while Turtlebot is at the original point. I'm currently applying neural network for predicting person's trajectory for the next step.
+Obtian person position by combining Lidar and YOLOv7 data. The closest Lidar distance in the YOLO framework is chosen as the person position. The code applies on 1 person, no person and mutiple people situation. depth and left or right of center represents x,y coordinate of the ground while Turtlebot is at the original point. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b3ARYUWHeLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/65siHMfaQLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
