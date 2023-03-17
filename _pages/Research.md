@@ -22,9 +22,6 @@ Object detection and autonomous navigation
 depth estimation
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qh8bAIE5-mA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-test environment of depth estimation
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OoZ20Jg31_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 The reason that I use Karto instead of Gmapping SLAM method is, Gmapping works pretty well in Gazebo but works bad on our Turtlebot. It somestimes messes the map up when twisting. When Turtlebot is stuck by something, Karto is able to know that robot is stuck, while gmapping method makes robot think it is still moving. When using gmapping SLAM, Turtlebot moves much faster than Karto SLAM.
 
 Please check these 2 videos for comparison.<br />
