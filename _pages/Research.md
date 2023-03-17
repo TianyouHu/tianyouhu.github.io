@@ -10,8 +10,8 @@ I worked in Professor [Yiannis Kantaros'](https://engineering.wustl.edu/faculty/
 
 Please check these demo videos. 
 
-Obtian person position by combining Lidar and YOLOv7 data. This is the first version code and can only be used on 1 person case. Please feel free to write email to me to ask for more details. This part is on going. I will add neural network to predict pedestrian trajectory for the next step.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eIpGOH9aZqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Obtian person position by combining Lidar and YOLOv7 data. The closest Lidar distance in the YOLO framework is chosen as the person position. The code applies on 1 person, no person and mutiple people situation. I'm currently applying neural network for predicting person's trajectory for the next step.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/65siHMfaQLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Object detection and autonomous navigation on mat (kinda bumpy)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ixDVWG9pUJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
