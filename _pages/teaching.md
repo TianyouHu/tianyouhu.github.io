@@ -4,7 +4,7 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
-Washington University in St. Louis
+Teaching Assistant, Washington University in St. Louis
 ------
   • ESE502: Mathematics of Modern Engineering II, Sring 2023 <br />
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supevisor: [Vladimir Kurenok](https://engineering.wustl.edu/faculty/Vladimir-Kurenok.html) <br />
