@@ -6,7 +6,7 @@ author_profile: true
 ---
 Vision Based Exploration in Fully Unknown Environment
 =======
-I worked in Professor [Yiannis Kantaros'](https://engineering.wustl.edu/faculty/Yiannis-Kantaros.html) lab at WashU since August 2022. I applied autonomous exploration algorithm on our Turtlebot3 Waffle Pi robot by combining RRT naviation algorithm and Karto SLAM method. Besides this, I applied YOLOv7 on our robot for object detection and depth estimation to obtain distance of specific object. Lidar and YOLO data are combined to obtain position of pedestrian. The next step is predicting pedestrians trajectory by applying neural network.
+I worked in Professor [Yiannis Kantaros'](https://engineering.wustl.edu/faculty/Yiannis-Kantaros.html) lab at WashU from August 2022 to May 2023. I applied autonomous exploration algorithm on our Turtlebot3 Waffle Pi robot by combining RRT naviation algorithm and Karto SLAM method. Besides this, I applied YOLOv7 on our robot for object detection and depth estimation to obtain distance of specific object. Lidar and YOLO data are combined to obtain position of pedestrian. The next step is predicting pedestrians trajectory by applying neural network.
 
 Please check these demo videos. 
 
