@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a master student majoring in **Mechanical Engineering** at **Washington University in St. Louis(WashU)**, expecting to graduate in May 2023. Before joining WashU, I recieved my bachelor's degree majoring in **Vehicle Engineering** from **Chongqing University**, China in 2021.
+I'm currently a Software Development Engineer at **Tesla** working on Trip Planner.
 
 ------
-I'm looking for **PhD** or **job** position in **Robotics** field. My interests lies in robotics, computer vision, machine learning, motion planning and signal processing. Please download my C.V. [here](https://tianyouhu.github.io/files/CV.pdf). 
 
-I joined Professor [Yiannis Kantaros'](https://engineering.wustl.edu/faculty/Yiannis-Kantaros.html) group at WashU since August 2022. I'm now working on *Vision Based Exploration in Fully Unknown Environment* project. Please check details in [Research](https://tianyouhu.github.io/research/) catogery.
+Before joing Tesla, I was a master student majoring in **Mechanical Engineering** at **Washington University in St. Louis(WashU)**. I worked at [Kantaros Lab](https://sites.wustl.edu/kantaroslab/), supervised by Professor [Yiannis Kantaros'](https://engineering.wustl.edu/faculty/Yiannis-Kantaros.html) from Aug 2022 to May 2023 when I was at WashU.
 
+Before that, I received my bachelor’s degree majoring in **Vehicle Engineering** from **Chongqing University**, China in 2021.
+
+------
+
+I run a Chinese tiktok account with 17k followers. The account name is **I Like Los Angeles**. I love LA so much because it is exactly Los Santos in video game Grand Theft Auto 5 (GTA5). For the past 8 years, I have been devoted all my efforts to live a life of GTA5. I'll try my best to make as much money as I can, then move to Beverly Hills.
 
 
 

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tianyou Hu"
 title_separator          : "-"
 name                     : &name "Tianyou Hu"
-description              : &description "master student at Washington University in St. Louis majoring in Mechanical Engineering"
+description              : &description "Software Development Engineer at Tesla -- Trip Planner"
 url                      : https://tianyouhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -84,13 +84,13 @@ analytics:
 author:
   name             : "Tianyou Hu"
   avatar           : "profile.png"
-  bio              : "Master Student at Washington University in St. Louis (WashU)"
-  location         : "St. Louis, Missouri"
+  bio              : "Software Development Engineer at Tesla -- Trip Planner"
+  location         : "Palo Alto, California"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=OxU0qNwAAAAJ"
   email            : "h.tianyou@wustl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -104,11 +104,11 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/tianyou-hu-58abba206/"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 
