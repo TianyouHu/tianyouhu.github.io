@@ -19,9 +19,7 @@ Before that, I received my bachelor’s degree majoring in **Vehicle Engineering
 ------
 
 I run a Chinese tiktok account with 17k followers. The account name is **I Like Los Angeles**. I love LA so much because it is exactly Los Santos in video game Grand Theft Auto 5 (GTA5). For the past 8 years, I have been devoted all my efforts to live a life of GTA5. I'll try my best to make as much money as I can, then move to Beverly Hills.
-
-
-
+![161719784374_ pic](https://github.com/TianyouHu/tianyouhu.github.io/assets/71891452/8d23b23b-4a60-4e9f-a997-461eeaeac416)
 
 
 
